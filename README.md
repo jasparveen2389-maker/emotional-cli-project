@@ -4,16 +4,16 @@
 # REGISTRATION NO.: 25BCE11236
 # COURSE CODE: CSA2001
 
-## 📌 Project Overview
+## Project Overview
 This project is a Command Line Interface (CLI) based application that detects the emotion of a given text input using Natural Language Processing (NLP).
 
-## 🎯 Objective
+## Objective
 The objective of this project is to analyze user input text and classify it into different emotions such as Happy, Sad, Angry, Excited, or Neutral.
 
-## 💡 Motivation
+## Motivation
 Understanding human emotions from text is useful in applications like chatbots, customer feedback analysis, and mental health monitoring.
 
-## ⚙️ Features
+## Features
 - Detect emotion from user input
 - Supports multiple emotion categories
 - Saves history of inputs and results
@@ -22,18 +22,18 @@ Understanding human emotions from text is useful in applications like chatbots, 
 - User-friendly CLI menu
 - Error handling for invalid input
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python
 - JSON (for data storage)
 - Basic NLP techniques
 
-## 🧩 Modules
+## Modules
 1. Emotion Detection Module
 2. Data Storage Module
 3. History Viewing Module
 4. User Interface Module
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Open terminal
 2. Navigate to project folder
