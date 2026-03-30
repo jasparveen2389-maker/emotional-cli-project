@@ -1,0 +1,12 @@
+[
+    {
+        "text": "i am happy",
+        "emotion": "Happy \ud83d\ude0a",
+        "time": "2026-03-30 21:45:49"
+    },
+    {
+        "text": "i am sad",
+        "emotion": "Sad \ud83d\ude22",
+        "time": "2026-03-30 21:45:56"
+    }
+]
